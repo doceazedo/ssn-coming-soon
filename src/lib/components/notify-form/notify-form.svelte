@@ -5,7 +5,7 @@
   const to = 'wl@doceazedo.com';
   let value = '';
   let isLoading = false;
-  let isModalOpen = true;
+  let isModalOpen = false;
   let success = true;
 
   const handleSubmit = async () => {
