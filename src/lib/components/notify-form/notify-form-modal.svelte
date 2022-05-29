@@ -49,7 +49,7 @@
           <p>– DoceAzedo</p>
           <div class="buttons">
             <a
-              href="https://discord.gg/vEGRe2kq8B"
+              href="https://discord.gg/DChTnVTuKp"
               target="_blank"
               class="button discord"
             >
